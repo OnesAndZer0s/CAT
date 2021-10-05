@@ -1,0 +1,81 @@
+[ {
+    "$id": "1",
+    "SubmissionItemID": 44800,
+    "CategoryID": 1,
+    "SubcategoryID": 1,
+    "Description": "random notes",
+    "StartTime": "2021-09-28T01:10:27.4596765",
+    "EndTime": "2021-09-28T01:10:48.5223113",
+    "Duration": "00:00:21"
+  },
+  {
+    "$id": "2",
+    "SubmissionItemID": 44801,
+    "CategoryID": 3,
+    "SubcategoryID": 8,
+    "Description": "notes",
+    "StartTime": "2021-09-28T01:10:48.5535615",
+    "EndTime": "2021-09-28T01:10:54.4285991",
+    "Duration": "00:00:05"
+  },
+  {
+    "$id": "3",
+    "SubmissionItemID": 44802,
+    "CategoryID": 1,
+    "SubcategoryID": 2,
+    "Description": "more notes",
+    "StartTime": "2021-09-28T01:10:54.6786007",
+    "EndTime": "2021-09-28T01:11:01.1161419",
+    "Duration": "00:00:06"
+  },
+  {
+    "$id": "4",
+    "SubmissionItemID": 44803,
+    "CategoryID": 3,
+    "SubcategoryID": 8,
+    "Description": "er",
+    "StartTime": "2021-09-28T01:11:01.2723929",
+    "EndTime": "2021-09-28T01:11:08.6630652",
+    "Duration": "00:00:07"
+  },
+  {
+    "$id": "5",
+    "SubmissionItemID": 44804,
+    "CategoryID": 2,
+    "SubcategoryID": 7,
+    "Description": "erf",
+    "StartTime": "2021-09-28T01:11:08.788066",
+    "EndTime": "2021-09-28T01:11:16.8193674",
+    "Duration": "00:00:08"
+  },
+  {
+    "$id": "6",
+    "SubmissionItemID": 44805,
+    "CategoryID": 3,
+    "SubcategoryID": 9,
+    "Description": "erf",
+    "StartTime": "2021-09-28T01:11:16.8349925",
+    "EndTime": "2021-09-28T01:11:24.569417",
+    "Duration": "00:00:07"
+  },
+  {
+    "$id": "7",
+    "SubmissionItemID": 44806,
+    "CategoryID": 4,
+    "SubcategoryID": 12,
+    "Description": "efrege",
+    "StartTime": "2021-09-28T01:11:24.6006672",
+    "EndTime": "2021-09-28T01:11:31.913214",
+    "Duration": "00:00:07"
+  },
+  {
+    "$id": "8",
+    "SubmissionItemID": 44807,
+    "CategoryID": 1,
+    "SubcategoryID": 1,
+    "Description": "",
+    "StartTime": "2021-09-28T01:11:31.9444642",
+    "EndTime": "2021-09-28T01:11:36.5226185",
+    "Duration": "00:00:04"
+  }
+]
