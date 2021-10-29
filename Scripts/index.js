@@ -1728,17 +1728,17 @@ function getCategories() {
     "Subcategories": [ {
       "$id": "11",
       "SubcategoryID": 8,
-      "Description": "Small group discussion /activity"
+      "Description": "Individual work"
     },
     {
       "$id": "12",
       "SubcategoryID": 9,
-      "Description": "Independent practice / activity"
+      "Description": "Small group work"
     },
     {
       "$id": "13",
       "SubcategoryID": 10,
-      "Description": "Combined practices"
+      "Description": "Partner Work"
     }
     ]
   },
@@ -1749,12 +1749,27 @@ function getCategories() {
     "Subcategories": [ {
       "$id": "15",
       "SubcategoryID": 11,
-      "Description": "Oral assessment of student learning"
+      "Description": "Formative - Individual"
     },
     {
       "$id": "16",
       "SubcategoryID": 12,
-      "Description": "Written assessment of student learning"
+      "Description": "Formative - All"
+    },
+    {
+      "$id": "17",
+      "SubcategoryID": 13,
+      "Description": "Written Assessment"
+    },
+    {
+      "$id": "18",
+      "SubcategoryID": 14,
+      "Description": "Peer Assessment"
+    },
+    {
+      "$id": "19",
+      "SubcategoryID": 15,
+      "Description": "Self Assessment"
     }
     ]
   }
