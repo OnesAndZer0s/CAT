@@ -1,1 +1,0 @@
-chrome-extension://ffgeghogobeidoigngdalklnmkofkoin/content_script.js
