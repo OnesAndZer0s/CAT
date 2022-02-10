@@ -12,8 +12,8 @@ module.exports = {
   // Where webpack outputs the assets and bundles
   output: {
     path: paths.build,
-    filename: "index.bundle.js",
-    publicPath: "/"
+    filename: "index.bundle.js"
+    // publicPath: "/"
   },
 
   // Customize the webpack build process
