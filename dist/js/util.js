@@ -1,0 +1,1 @@
+export function toHHMMSS(o){var r=o/1e3,t=Math.floor(r/3600),M=Math.floor((r-3600*t)/60),a=r-3600*t-60*M;return t<10&&(t="0"+t),M<10&&(M="0"+M),a<10&&(a="0"+a),t+":"+M+":"+a}
